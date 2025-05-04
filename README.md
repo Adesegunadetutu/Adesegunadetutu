@@ -23,3 +23,14 @@
 <p>
   I’m also a creative at heart — a former chorister who believes in blending art with tech to craft meaningful digital experiences.
 </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/adesegun-adetutu-0a9b9a198" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adesegunadetutu20@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/adetutuadesegun" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+</p>
