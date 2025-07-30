@@ -21,7 +21,7 @@
   I’m passionate about <strong>UI/UX Design</strong> and <strong>Frontend Development</strong>. I love bringing ideas to life through clean, user-friendly, and engaging interfaces.
 </p>
 <p>
-  I’m also a creative at heart — a former chorister who believes in blending art with tech to craft meaningful digital experiences.
+  I’m also a creative at heart and I believe in blending art with tech to craft meaningful digital experiences.
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/adesegun-adetutu-0a9b9a198" target="_blank">
